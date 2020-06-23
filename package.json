@@ -15,6 +15,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": ""
-  }
+    "url": "git+https://github.com/im2wddrf/listfiles.git"
+  },
+  "homepage": "https://github.com/im2wddrf/listfiles.git"
 }
