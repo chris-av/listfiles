@@ -1,0 +1,20 @@
+{
+  "name": "listfiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "lsjs": "./bin/index.js"
+  },
+  "scripts": {
+    "lsjs": "node ./bin/index.js"
+  },
+  "keywords": ['list', 'files', 'ls', 'lsjs', 'listfiles'],
+  "author": "Christian Valenzuela",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
