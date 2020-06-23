@@ -26,17 +26,17 @@ The below command will display only files and directories that fall on November:
 
 ```zsh
 # the below are all equivalent, notice how it is not case sensitive
-listfiles --filter-month-12
-listfiles --filter-month-November
-listfiles --filter-month-nov
+lsjs --filter-month-12
+lsjs --filter-month-November
+lsjs --filter-month-nov
 ```
 
 With z-shell, you can easily add multiple filters at once!
 
 ```zsh
-listfiles --filter-{month-6,year-2019}          # files from June 2019
-listfiles --filter-{year-2020,month-{6..12}}    # files from June-December 2019
-listfiles --filter-weekday-{mon,fri}            # show files that fall on monday or friday
+lsjs --filter-{month-6,year-2019}          # files from June 2019
+lsjs --filter-{year-2020,month-{6..12}}    # files from June-December 2019
+lsjs --filter-weekday-{mon,fri}            # show files that fall on monday or friday
 ```
 
 ## Notes 
