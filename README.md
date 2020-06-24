@@ -6,7 +6,7 @@ A simple npm package that leverages the power of javascript's `console.table()` 
 To install this package, run the following command in your terminal: 
 
 ```node
-npm install listfiles --global
+npm install @im2wddrf/listfiles --global
 ```
 
 ## Arguments
