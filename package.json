@@ -9,7 +9,13 @@
   "scripts": {
     "lsjs": "node ./bin/index.js"
   },
-  "keywords": ["list", "files", "ls", "lsjs", "listfiles"],
+  "keywords": [
+    "list",
+    "files",
+    "ls",
+    "lsjs",
+    "listfiles"
+  ],
   "author": "Christian Valenzuela",
   "license": "MIT",
   "dependencies": {},
